@@ -2,7 +2,7 @@ windows 10 only
 
 copy demoplex.theme and demoplex folder to c:\windows\resources\themes\
 
-apply using secureuxtheme or ultimateuxthemepatcher
+apply using secureuxtheme or ultrauxthemepatcher
 
 use oldnewexplorer for uifile redirection
 
